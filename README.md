@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Botzer!
+👋 Hi there, I’m Botzer!
 
 👀 I’m enthusiastic about software, data science, deep learning, knowledge graphs, finance and soccer.
 
