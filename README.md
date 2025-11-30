@@ -1,12 +1,10 @@
 👋 Hi there, I’m Botzer!
 
-👀 I’m a software engineer | data scientist | R&D manager, enthusiastic about ML, knowledge graphs, finance and soccer.
-
-🌱 I’m currently pursuing my MBA at Harvard Business School (Class of 2024).
+👀 I’m into software engineering, AI, and finance.
 
 📫 Reach out at:
-* abotzer@mba2024.hbs.edu
-* LinkedIn:https://www.linkedin.com/in/amit-botzer-5370aa138/
+* Email: abotzer@white-sail.ai
+* LinkedIn: https://www.linkedin.com/in/botzer/
 
 <!---
 abotzer/abotzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
